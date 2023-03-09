@@ -1,6 +1,6 @@
 from typing import Callable, Generator
 
-FILE_NAME = r'Temp\cities.csv'
+FILE_NAME = r'Temp/cities.csv'
 
 
 def is_file_closed(file_name):
