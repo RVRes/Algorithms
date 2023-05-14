@@ -136,3 +136,5 @@ dmypy.json
 
 # virtual enviroment
 .idea/
+
+del.py

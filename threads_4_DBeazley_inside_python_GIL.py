@@ -12,7 +12,7 @@ def count(n):
         n -= 1
 
 
-N = 100000000
+N = 200000000
 
 # 2 run in sequence 1 by 1
 start = time.time()

@@ -9,7 +9,7 @@ import time
 from threading import Thread
 from multiprocessing import Pool
 
-COUNT = 50000000
+COUNT = 100000000
 
 
 def countdown(n):
